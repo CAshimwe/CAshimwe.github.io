@@ -1,0 +1,32 @@
+body,
+html{
+
+	height: 100%
+	weight: 100%;
+	font-family: 'montserrat', sans-serif;
+
+	background: url(ifoto.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+	font-size: 3rem;
+	color: #dae0e5;
+	/*text-align: center;*/
+}
+.btn-primary{
+	font-weight: 300;
+	border-radius: 300px;
+	}
+hr{
+	border-color: #dae0e5;
+	border-width:3px;
+	max-width:65px;
+}
+/*.container{
+	height: 100%;
+	display: flex;
+	align-items:center;
+}*/
